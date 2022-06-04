@@ -1,0 +1,1 @@
+komanda pull e ka funksionin qe te terhjek te dhena prej ne github ne vsc
